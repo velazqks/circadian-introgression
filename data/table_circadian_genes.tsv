@@ -1,0 +1,247 @@
+GeneID	GeneName	Description	Evidence	Confidence
+ENSG00000129673	AANAT	aralkylamine N-acetyltransferase	Biosystems, GO, McMahon	High
+ENSG00000196839	ADA	adenosine deaminase	Biosystems, GO	Medium
+ENSG00000164742	ADCY1	adenylate cyclase 1	Biosystems, GO	Medium
+ENSG00000181092	ADIPOQ	adiponectin, C1Q and collagen domain containing	Biosystems, CGDB, GO	High
+ENSG00000163485	ADORA1	adenosine A1 receptor	Biosystems, GO	Medium
+ENSG00000128271	ADORA2A	adenosine A2a receptor	Biosystems, GO	Medium
+ENSG00000120907	ADRA1A	adrenoceptor alpha 1A	McMahon	High
+ENSG00000170214	ADRA1B	adrenoceptor alpha 1B	McMahon	High
+ENSG00000159723	AGRP	agouti related neuropeptide	Biosystems, GO	Medium
+ENSG00000101444	AHCY	adenosylhomocysteinase	Biosystems, GO	Medium
+ENSG00000106546	AHR	aryl hydrocarbon receptor	Biosystems, GO	Medium
+ENSG00000154027	AK5	adenylate kinase 5	CGDB, GWAS	Medium
+ENSG00000151150	ANK3	ankyrin 3	CGDB, GWAS	Medium
+ENSG00000133794	ARNTL	basic helix-loop-helix ARNT like 1	Biosystems, CGDB, GO, GWAS, McMahon	High
+ENSG00000029153	ARNTL2	basic helix-loop-helix ARNT like 2	Biosystems, GO	Medium
+ENSG00000197070	ARRDC1	arrestin domain containing 1	CGDB, GWAS	Medium
+ENSG00000139352	ASCL1	achaete-scute family bHLH transcription factor 1	McMahon	High
+ENSG00000196433	ASMT	acetylserotonin O-methyltransferase	McMahon	High
+ENSG00000128272	ATF4	activating transcription factor 4	Biosystems, GO	Medium
+ENSG00000169136	ATF5	activating transcription factor 5	Biosystems, GO	Medium
+ENSG00000179774	ATOH7	atonal bHLH transcription factor 7	Biosystems, GO	Medium
+ENSG00000153064	BANK1	B cell scaffold protein with ankyrin repeats 1	CGDB, GWAS	Medium
+ENSG00000134107	BHLHE40	basic helix-loop-helix family member e40	Biosystems, GO	Medium
+ENSG00000123095	BHLHE41	basic helix-loop-helix family member e41	Biosystems, CGDB, GO	High
+ENSG00000183826	BTBD9	BTB domain containing 9	Biosystems, GO, GWAS	High
+ENSG00000166167	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase	Biosystems, GO, GWAS	High
+ENSG00000118292	C1orf54	chromosome 1 open reading frame 54	CGDB, GWAS	Medium
+ENSG00000088543	C3orf18	chromosome 3 open reading frame 18	CGDB, GWAS	Medium
+ENSG00000136436	CALCOCO2	calcium binding and coiled-coil domain 2	CGDB, GWAS	Medium
+ENSG00000164326	CARTPT	CART prepropeptide	Biosystems, GO	Medium
+ENSG00000170955	CAVIN3	caveolae associated protein 3	Biosystems, GO	Medium
+ENSG00000158941	CCAR2	cell cycle and apoptosis regulator 2	Biosystems, GO	Medium
+ENSG00000107736	CDH23	cadherin related 23	CGDB, GWAS	Medium
+ENSG00000135446	CDK4	cyclin dependent kinase 4	Biosystems, CGDB, GO	High
+ENSG00000160716	CHRNB2	cholinergic receptor nicotinic beta 2 subunit	Biosystems, GO	Medium
+ENSG00000159208	CIART	circadian associated repressor of transcription	Biosystems, GO	Medium
+ENSG00000198894	CIPC	CLOCK interacting pacemaker	Biosystems, GO	Medium
+ENSG00000189143	CLDN4	claudin 4	Biosystems, GO	Medium
+ENSG00000134852	CLOCK	clock circadian regulator	Biosystems, GO, McMahon	High
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A	Biosystems, GO	Medium
+ENSG00000118260	CREB1	cAMP responsive element binding protein 1	Biosystems, GO	Medium
+ENSG00000095794	CREM	cAMP responsive element modulator	Biosystems, GO	Medium
+ENSG00000147571	CRH	corticotropin releasing hormone	Biosystems, GO	Medium
+ENSG00000105662	CRTC1	CREB regulated transcription coactivator 1	Biosystems, GO	Medium
+ENSG00000008405	CRY1	cryptochrome circadian regulator 1	Biosystems, CGDB, GO, GWAS, McMahon	High
+ENSG00000121671	CRY2	cryptochrome circadian regulator 2	Biosystems, CGDB, GO, McMahon	High
+ENSG00000141551	CSNK1D	casein kinase 1 delta	Biosystems, CGDB, GO	High
+ENSG00000213923	CSNK1E	casein kinase 1 epsilon	Biosystems, CGDB, GO, McMahon	High
+ENSG00000174080	CTSF	cathepsin F	CGDB, GWAS	Medium
+ENSG00000163131	CTSS	cathepsin S	CGDB, GWAS	Medium
+ENSG00000105516	DBP	D-box binding PAR bZIP transcription factor	Biosystems, CGDB, GO	High
+ENSG00000132437	DDC	dopa decarboxylase	Biosystems, GO, GWAS, McMahon	High
+ENSG00000116138	DNAJC16	DnaJ heat shock protein family (Hsp40) member C16	CGDB, GWAS	Medium
+ENSG00000184845	DRD1	dopamine receptor D1	Biosystems, GWAS, McMahon	High
+ENSG00000149295	DRD2	dopamine receptor D2	Biosystems, GO, GWAS	High
+ENSG00000151577	DRD3	dopamine receptor D3	Biosystems, GO, GWAS	High
+ENSG00000069696	DRD4	dopamine receptor D4	Biosystems, GO	Medium
+ENSG00000157540	DYRK1A	dual specificity tyrosine phosphorylation regulated kinase 1A	Biosystems, GO	Medium
+ENSG00000117298	ECE1	endothelin converting enzyme 1	CGDB, GWAS	Medium
+ENSG00000120738	EGR1	early growth response 1	Biosystems, GO	Medium
+ENSG00000179388	EGR3	early growth response 3	Biosystems, GO	Medium
+ENSG00000100393	EP300	E1A binding protein p300	Biosystems, GO	Medium
+ENSG00000106462	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit	Biosystems, GO, GWAS	High
+ENSG00000057593	F7	coagulation factor VII	Biosystems, GO	Medium
+ENSG00000164687	FABP5	fatty acid binding protein 5	CGDB, GWAS	Medium
+ENSG00000198643	FAM3D	FAM3 metabolism regulating signaling molecule D	CGDB, GWAS	Medium
+ENSG00000161040	FBXL13	F-box and leucine rich repeat protein 13	CGDB, GWAS	Medium
+ENSG00000005812	FBXL3	F-box and leucine rich repeat protein 3	Biosystems, GO, GWAS	High
+ENSG00000072803	FBXW11	F-box and WD repeat domain containing 11	Biosystems, GO	Medium
+ENSG00000163497	FEV	FEV transcription factor, ETS family member	McMahon	High
+ENSG00000125798	FOXA2	forkhead box A2	McMahon	High
+ENSG00000204681	GABBR1	gamma-aminobutyric acid type B receptor subunit 1	McMahon	High
+ENSG00000022355	GABRA1	gamma-aminobutyric acid type A receptor subunit alpha1	McMahon	High
+ENSG00000179348	GATA2	GATA binding protein 2	CGDB, McMahon	High
+ENSG00000107485	GATA3	GATA binding protein 3	McMahon	High
+ENSG00000198380	GFPT1	glutamine--fructose-6-phosphate transaminase 1	Biosystems, GO	Medium
+ENSG00000118702	GHRH	growth hormone releasing hormone	Biosystems, GO	Medium
+ENSG00000157017	GHRL	ghrelin and obestatin prepropeptide	Biosystems, CGDB, GO	High
+ENSG00000088256	GNA11	G protein subunit alpha 11	Biosystems, CGDB, GO	High
+ENSG00000114353	GNAI2	G protein subunit alpha i2	CGDB, GWAS	Medium
+ENSG00000156052	GNAQ	G protein subunit alpha q	Biosystems, GO	Medium
+ENSG00000167191	GPRC5B	G protein-coupled receptor class C group 5 member B	CGDB, GWAS	Medium
+ENSG00000106070	GRB10	growth factor receptor bound protein 10	CGDB, GWAS	Medium
+ENSG00000082701	GSK3B	glycogen synthase kinase 3 beta	Biosystems, CGDB, GO	High
+ENSG00000101336	HCK	HCK proto-oncogene, Src family tyrosine kinase	CGDB, GWAS	Medium
+ENSG00000137252	HCRTR2	hypocretin receptor 2	Biosystems, GO, GWAS	High
+ENSG00000116478	HDAC1	histone deacetylase 1	Biosystems, GO	Medium
+ENSG00000196591	HDAC2	histone deacetylase 2	Biosystems, GO	Medium
+ENSG00000171720	HDAC3	histone deacetylase 3	Biosystems, GO	Medium
+ENSG00000013583	HEBP1	heme binding protein 1	Biosystems, GO	Medium
+ENSG00000275410	HNF1B	HNF1 homeobox B	Biosystems, GO	Medium
+ENSG00000138668	HNRNPD	heterogeneous nuclear ribonucleoprotein D	Biosystems, GO, GWAS	High
+ENSG00000153187	HNRNPU	heterogeneous nuclear ribonucleoprotein U	Biosystems, CGDB, GO	High
+ENSG00000122254	HS3ST2	heparan sulfate-glucosamine 3-sulfotransferase 2	Biosystems, GO, GWAS	High
+ENSG00000178394	HTR1A	5-hydroxytryptamine receptor 1A	McMahon	High
+ENSG00000135312	HTR1B	5-hydroxytryptamine receptor 1B	CGDB, McMahon	High
+ENSG00000179546	HTR1D	5-hydroxytryptamine receptor 1D	McMahon	High
+ENSG00000102468	HTR2A	5-hydroxytryptamine receptor 2A	McMahon	High
+ENSG00000147246	HTR2C	5-hydroxytryptamine receptor 2C	McMahon	High
+ENSG00000148680	HTR7	5-hydroxytryptamine receptor 7	Biosystems, GO, McMahon	High
+ENSG00000115738	ID2	inhibitor of DNA binding 2	Biosystems, GO	Medium
+ENSG00000117318	ID3	inhibitor of DNA binding 3	Biosystems, GO	Medium
+ENSG00000172201	ID4	inhibitor of DNA binding 4	Biosystems, GO	Medium
+ENSG00000173404	INSM1	INSM transcriptional repressor 1	McMahon	High
+ENSG00000101230	ISM1	isthmin 1	CGDB, GWAS	Medium
+ENSG00000143772	ITPKB	inositol-trisphosphate 3-kinase B	CGDB, GWAS	Medium
+ENSG00000177606	JUN	Jun proto-oncogene, AP-1 transcription factor subunit	Biosystems, GO	Medium
+ENSG00000130522	JUND	JunD proto-oncogene, AP-1 transcription factor subunit	Biosystems, GO	Medium
+ENSG00000107104	KANK1	KN motif and ankyrin repeat domains 1	CGDB, GWAS	Medium
+ENSG00000184408	KCND2	potassium voltage-gated channel subfamily D member 2	Biosystems, GO	Medium
+ENSG00000055118	KCNH2	potassium voltage-gated channel subfamily H member 2	CGDB, GWAS	Medium
+ENSG00000184611	KCNH7	potassium voltage-gated channel subfamily H member 7	Biosystems, CGDB	Medium
+ENSG00000082482	KCNK2	potassium two pore domain channel subfamily K member 2	McMahon	High
+ENSG00000171303	KCNK3	potassium two pore domain channel subfamily K member 3	McMahon	High
+ENSG00000143603	KCNN3	potassium calcium-activated channel subfamily N member 3	McMahon	High
+ENSG00000073614	KDM5A	lysine demethylase 5A	Biosystems, GO	Medium
+ENSG00000155090	KLF10	KLF transcription factor 10	Biosystems, GO	Medium
+ENSG00000119138	KLF9	KLF transcription factor 9	Biosystems, CGDB, GO	High
+ENSG00000119771	KLHL29	kelch like family member 29	CGDB, GWAS	Medium
+ENSG00000118058	KMT2A	lysine methyltransferase 2A	Biosystems, GO	Medium
+ENSG00000174697	LEP	leptin	Biosystems, GO	Medium
+ENSG00000205213	LGR4	leucine rich repeat containing G protein-coupled receptor 4	Biosystems, GO	Medium
+ENSG00000136944	LMX1B	LIM homeobox transcription factor 1 beta	McMahon	High
+ENSG00000138095	LRPPRC	leucine rich pentatricopeptide repeat containing	CGDB, GWAS	Medium
+ENSG00000172264	MACROD2	mono-ADP ribosylhydrolase 2	CGDB, GWAS	Medium
+ENSG00000254585	MAGEL2	MAGE family member L2	Biosystems, GO	Medium
+ENSG00000189221	MAOA	monoamine oxidase A	McMahon	High
+ENSG00000109339	MAPK10	mitogen-activated protein kinase 10	Biosystems, GO	Medium
+ENSG00000107643	MAPK8	mitogen-activated protein kinase 8	Biosystems, GO	Medium
+ENSG00000050748	MAPK9	mitogen-activated protein kinase 9	Biosystems, GO	Medium
+ENSG00000124089	MC3R	melanocortin 3 receptor	Biosystems, GO	Medium
+ENSG00000135272	MDFIC	MyoD family inhibitor domain containing	CGDB, GWAS	Medium
+ENSG00000165819	METTL3	methyltransferase 3, N6-adenosine-methyltransferase complex catalytic subunit	Biosystems, CGDB, GO	High
+ENSG00000182979	MTA1	metastasis associated 1	Biosystems, GO	Medium
+ENSG00000168412	MTNR1A	melatonin receptor 1A	Biosystems, GO, McMahon	High
+ENSG00000134640	MTNR1B	melatonin receptor 1B	Biosystems, CGDB, GO, GWAS, McMahon	High
+ENSG00000138823	MTTP	microsomal triglyceride transfer protein	Biosystems, GO	Medium
+ENSG00000213347	MXD3	MAX dimerization protein 3	CGDB, GWAS	Medium
+ENSG00000132382	MYBBP1A	MYB binding protein 1a	Biosystems, CGDB, GO	High
+ENSG00000005810	MYCBP2	MYC binding protein 2	GO, GWAS	Medium
+ENSG00000108784	NAGLU	N-acetyl-alpha-glucosaminidase	Biosystems, GO	Medium
+ENSG00000105835	NAMPT	nicotinamide phosphoribosyltransferase	Biosystems, CGDB, GO	High
+ENSG00000140396	NCOA2	nuclear receptor coactivator 2	Biosystems, GO	Medium
+ENSG00000141027	NCOR1	nuclear receptor corepressor 1	Biosystems, GO	Medium
+ENSG00000165030	NFIL3	nuclear factor, interleukin 3 regulated	Biosystems, CGDB, GO	High
+ENSG00000064300	NGFR	nerve growth factor receptor	Biosystems, GO	Medium
+ENSG00000136352	NKX2-1	NK2 homeobox 1	Biosystems, GO	Medium
+ENSG00000125820	NKX2-2	NK2 homeobox 2	McMahon	High
+ENSG00000169760	NLGN1	neuroligin 1	Biosystems, GO	Medium
+ENSG00000204640	NMS	neuromedin S	Biosystems, GO	Medium
+ENSG00000151014	NOCT	nocturnin	Biosystems, GO, GWAS	High
+ENSG00000007171	NOS2	nitric oxide synthase 2	Biosystems, GO	Medium
+ENSG00000170485	NPAS2	neuronal PAS domain protein 2	Biosystems, CGDB, GO, GWAS	
+ENSG00000214285	NPS	neuropeptide S	Biosystems, GO, GWAS	High
+ENSG00000185149	NPY2R	neuropeptide Y receptor Y2	Biosystems, GO	Medium
+ENSG00000126368	NR1D1	nuclear receptor subfamily 1 group D member 1	Biosystems, CGDB, GO, McMahon	High
+ENSG00000174738	NR1D2	nuclear receptor subfamily 1 group D member 2	Biosystems, CGDB, GO	High
+ENSG00000025434	NR1H3	nuclear receptor subfamily 1 group H member 3	Biosystems, GO	Medium
+ENSG00000160113	NR2F6	nuclear receptor subfamily 2 group F member 6	Biosystems, GO	Medium
+ENSG00000113580	NR3C1	nuclear receptor subfamily 3 group C member 1	GWAS, McMahon	High
+ENSG00000180530	NRIP1	nuclear receptor interacting protein 1	Biosystems, GO	Medium
+ENSG00000076685	NT5C2	5'-nucleotidase, cytosolic II	CGDB, GWAS	Medium
+ENSG00000065320	NTN1	netrin 1	McMahon	High
+ENSG00000198400	NTRK1	neurotrophic receptor tyrosine kinase 1	Biosystems, GO	Medium
+ENSG00000140538	NTRK3	neurotrophic receptor tyrosine kinase 3	Biosystems, GO	Medium
+ENSG00000054277	OPN3	opsin 3	Biosystems, GO, McMahon	High
+ENSG00000122375	OPN4	opsin 4	Biosystems, GO, McMahon	High
+ENSG00000124818	OPN5	opsin 5	McMahon	High
+ENSG00000125510	OPRL1	opioid related nociceptin receptor 1	Biosystems, CGDB, GO	High
+ENSG00000106331	PAX4	paired box 4	Biosystems, GO	Medium
+ENSG00000116005	PCYOX1	prenylcysteine oxidase 1	CGDB, GWAS	Medium
+ENSG00000179094	PER1	period circadian regulator 1	Biosystems, CGDB, GO, GWAS, McMahon	High
+ENSG00000132326	PER2	period circadian regulator 2	Biosystems, CGDB, GO, GWAS, McMahon	High
+ENSG00000049246	PER3	period circadian regulator 3	Biosystems, CGDB, GO, GWAS, McMahon	High
+ENSG00000114268	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	CGDB, GWAS	Medium
+ENSG00000081913	PHLPP1	PH domain and leucine rich repeat protein phosphatase 1	Biosystems, GO	Medium
+ENSG00000140464	PML	PML nuclear body scaffold	Biosystems, GO	Medium
+ENSG00000186951	PPARA	peroxisome proliferator activated receptor alpha	Biosystems, GO	Medium
+ENSG00000132170	PPARG	peroxisome proliferator activated receptor gamma	Biosystems, GO	Medium
+ENSG00000109819	PPARGC1A	PPARG coactivator 1 alpha	Biosystems, GO	Medium
+ENSG00000172531	PPP1CA	protein phosphatase 1 catalytic subunit alpha	Biosystems, GO	Medium
+ENSG00000213639	PPP1CB	protein phosphatase 1 catalytic subunit beta	Biosystems, GO	Medium
+ENSG00000186298	PPP1CC	protein phosphatase 1 catalytic subunit gamma	Biosystems, GO	Medium
+ENSG00000138078	PREPL	prolyl endopeptidase like	CGDB, GWAS	Medium
+ENSG00000180644	PRF1	perforin 1	Biosystems, CGDB	Medium
+ENSG00000132356	PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1	Biosystems, GO	Medium
+ENSG00000162409	PRKAA2	protein kinase AMP-activated catalytic subunit alpha 2	Biosystems, GO	Medium
+ENSG00000126583	PRKCG	protein kinase C gamma	Biosystems, GO	Medium
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic subunit	Biosystems, GO	Medium
+ENSG00000138669	PRKG2	protein kinase cGMP-dependent 2	Biosystems, GWAS	Medium
+ENSG00000100462	PRMT5	protein arginine methyltransferase 5	Biosystems, GO	Medium
+ENSG00000143125	PROK1	prokineticin 1	Biosystems, GO	Medium
+ENSG00000163421	PROK2	prokineticin 2	Biosystems, CGDB, GO	High
+ENSG00000101292	PROKR2	prokineticin receptor 2	Biosystems, GO	Medium
+ENSG00000117707	PROX1	prospero homeobox 1	Biosystems, GO	Medium
+ENSG00000121390	PSPC1	paraspeckle component 1	Biosystems, GO	Medium
+ENSG00000171862	PTEN	phosphatase and tensin homolog	Biosystems, GO	Medium
+ENSG00000107317	PTGDS	prostaglandin D2 synthase	Biosystems, GO	Medium
+ENSG00000149177	PTPRJ	protein tyrosine phosphatase receptor type J	CGDB, GWAS	Medium
+ENSG00000173482	PTPRM	protein tyrosine phosphatase receptor type M	CGDB, GWAS	Medium
+ENSG00000152061	RABGAP1L	RAB GTPase activating protein 1 like	CGDB, GWAS	Medium
+ENSG00000108557	RAI1	retinoic acid induced 1	Biosystems, GO	Medium
+ENSG00000122965	RBM19	RNA binding motif protein 19	CGDB, GWAS	Medium
+ENSG00000173933	RBM4	RNA binding motif protein 4	Biosystems, CGDB, GO	High
+ENSG00000173914	RBM4B	RNA binding motif protein 4B	Biosystems, GO	Medium
+ENSG00000104856	RELB	RELB proto-oncogene, NF-kB subunit	Biosystems, GO	Medium
+ENSG00000142599	RERE	arginine-glutamic acid dipeptide repeats	CGDB, GWAS	Medium
+ENSG00000163914	RHO	rhodopsin	McMahon	High
+ENSG00000164068	RNF123	ring finger protein 123	CGDB, GWAS	Medium
+ENSG00000141576	RNF157	ring finger protein 157	CGDB, GWAS	Medium
+ENSG00000134318	ROCK2	Rho associated coiled-coil containing protein kinase 2	Biosystems, CGDB, GO	High
+ENSG00000069667	RORA	RAR related orphan receptor A	Biosystems, CGDB, GO, McMahon	High
+ENSG00000198963	RORB	RAR related orphan receptor B	Biosystems, GO	Medium
+ENSG00000143365	RORC	RAR related orphan receptor C	Biosystems, GO	Medium
+ENSG00000106366	SERPINE1	serpin family E member 1	Biosystems, CGDB, GO	High
+ENSG00000107290	SETX	senataxin	Biosystems, GO	Medium
+ENSG00000116560	SFPQ	splicing factor proline and glutamine rich	Biosystems, GO	Medium
+ENSG00000087266	SH3BP2	SH3 domain binding protein 2	CGDB, GWAS	Medium
+ENSG00000142178	SIK1	salt inducible kinase 1	Biosystems, GO	Medium
+ENSG00000169375	SIN3A	SIN3 transcription regulator family member A	Biosystems, GO	Medium
+ENSG00000096717	SIRT1	sirtuin 1	Biosystems, CGDB, GO	High
+ENSG00000138083	SIX3	SIX homeobox 3	Biosystems, GO	Medium
+ENSG00000103546	SLC6A2	solute carrier family 6 member 2	McMahon	High
+ENSG00000108576	SLC6A4	solute carrier family 6 member 4	Biosystems, GO, McMahon	High
+ENSG00000168875	SOX14	SRY-box transcription factor 14	Biosystems, GO	Medium
+ENSG00000072310	SREBF1	sterol regulatory element binding transcription factor 1	Biosystems, CGDB, GO	High
+ENSG00000147465	STAR	steroidogenic acute regulatory protein	Biosystems, GO	Medium
+ENSG00000152455	SUV39H2	SUV39H2 histone lysine methyltransferase	Biosystems, CGDB, GO	High
+ENSG00000180176	TH	tyrosine hydroxylase	Biosystems, GO, McMahon	High
+ENSG00000054118	THRAP3	thyroid hormone receptor associated protein 3	Biosystems, CGDB, GO	High
+ENSG00000111602	TIMELESS	timeless circadian regulator	Biosystems, GO	Medium
+ENSG00000141655	TNFRSF11A	TNF receptor superfamily member 11a	Biosystems, GO	Medium
+ENSG00000198900	TOP1	DNA topoisomerase I	Biosystems, CGDB, GO	High
+ENSG00000131747	TOP2A	DNA topoisomerase II alpha	Biosystems, GO	Medium
+ENSG00000141510	TP53	tumor protein p53	Biosystems, GO	Medium
+ENSG00000129167	TPH1	tryptophan hydroxylase 1	Biosystems, GO, McMahon	High
+ENSG00000139287	TPH2	tryptophan hydroxylase 2	Biosystems, GO, McMahon	High
+ENSG00000179981	TSHZ1	teashirt zinc finger homeobox 1	CGDB, GWAS	Medium
+ENSG00000176890	TYMS	thymidylate synthetase	Biosystems, GO	Medium
+ENSG00000119048	UBE2B	ubiquitin conjugating enzyme E2 B	CGDB, GWAS	Medium
+ENSG00000114062	UBE3A	ubiquitin protein ligase E3A	Biosystems, GO	Medium
+ENSG00000036672	USP2	ubiquitin specific peptidase 2	Biosystems, GO	Medium
+ENSG00000187555	USP7	ubiquitin specific peptidase 7	GO, GWAS	Medium
+ENSG00000109906	ZBTB16	zinc finger and BTB domain containing 16	CGDB, GWAS	Medium
+ENSG00000147905	ZCCHC7	zinc finger CCHC-type containing 7	CGDB, GWAS	Medium
+ENSG00000140836	ZFHX3	zinc finger homeobox 3	Biosystems, GO	Medium

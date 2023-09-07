@@ -1,0 +1,11 @@
+
+Circadian eQTLs in Browning2018
+OR: 1.4707176042759935 
+P-VAL: 5.171685784657843e-106 
+[[   3857   85717]
+ [ 124192 4059198]]
+Circadian eQTLs in Browning2018 and at least one other method
+OR: 1.5279265656622356 
+P-VAL: 4.185754427422928e-126 
+[[   3857   85717]
+ [ 119675 4063715]]
