@@ -126,5 +126,5 @@ Directory
         ├──chronotype_chr2_r2.tsv
         ├──README.md
     ├──plots/
-        ├──
+        ├──Figure5b.pdf
 
