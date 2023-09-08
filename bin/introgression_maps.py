@@ -9,7 +9,7 @@
 #              https://www.science.org/doi/10.1126/sciadv.abc0776
 # 
 # Introgression maps:
-#  - Browning & Boeckx, 2018
+#  - Browning et al., 2018
 #  - Sankararaman et al., 2014
 #  - Schaefer et al., 2021. SARGE
 #  - Skov et al., 2020. hg38. Lifted to hg19. 
